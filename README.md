@@ -12,13 +12,13 @@ Este proyecto presenta un análisis integral de datos para la cadena de tiendas 
 ## 📊 Insights Principales
 
 ### 1. Logística y Costos de Envío
-Se identificó que la **Tienda X** presenta los costos de envío más elevados (Promedio: R$XX.XX). Esto sugiere una oportunidad para renegociar contratos de flete o revisar la zona de cobertura.
+Se identificó que la **Tienda 1** presenta los costos de envío más elevados (Promedio: R$26,018.61. Esto sugiere una oportunidad para renegociar contratos de flete o revisar la zona de cobertura.
 
 > [!TIP]
 > Average Shipping Cost per Store.png
 
 ### 2. Composición de Ventas
-La categoría de **[Nombre de Categoría]** representa el mayor volumen de ventas, lo que indica una fuerte preferencia del mercado por estos productos.
+La categoría de **Muebles** representa el mayor volumen de ventas, lo que indica una fuerte preferencia del mercado por estos productos.
 
 > [!TIP]
 > **Inserta aquí tu Gráfico de Tarta**
@@ -30,7 +30,7 @@ A pesar del volumen de ventas, la satisfacción varía significativamente entre 
 > **Inserta aquí tu Histograma de Calificaciones**
 
 ## 🗺️ Análisis Geográfico
-Utilizando coordenadas de latitud y longitud, generamos un mapa de calor que revela una alta concentración de demanda en la región de **[Nombre de la Región]**, donde actualmente no contamos con una sede física.
+Utilizando coordenadas de latitud y longitud, generamos un mapa de calor que revela una alta concentración de demanda en la región de **Bogotá**, donde actualmente no contamos con una sede física.
 
 ## 🛠️ Cómo ejecutar el proyecto
 1. Clona este repositorio:
