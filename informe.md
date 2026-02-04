@@ -4,7 +4,7 @@
 
 ### **De:** Dayra G. - Data Analyst
 
-## **Propósito:** Identificar la unidad de negocio con mayor potencial y eficiencia operativa para determinar la estrategia de venta/inversión.
+ **Propósito:** Identificar la unidad de negocio con mayor potencial y eficiencia operativa para determinar la estrategia de venta/inversión.
 
 ## **1. Introducción**
 El presente informe sintetiza el desempeño de las cuatro sedes de Alura Store. Se evaluaron variables financieras (ingresos), logísticas (costos de envío), comerciales (rotación de inventario) y de satisfacción (calificación del cliente) para ofrecer una recomendación basada en datos sobre qué tienda representa la mejor oportunidad de negocio.
