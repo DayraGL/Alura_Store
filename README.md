@@ -22,7 +22,7 @@ La categoría de **Muebles** representa el mayor volumen de ventas, lo que indic
 ![image](https://github.com/DayraGL/Alura_Store/blob/main/categories_porcentage_graphic.png)
 
 ### 3. Satisfacción del Cliente (KPI de Salud)
-A pesar del volumen de ventas, la satisfacción varía significativamente entre sedes. El análisis de distribución muestra que la **Tienda Y** mantiene la mayor lealtad de clientes.
+A pesar del volumen de ventas, la satisfacción varía significativamente entre sedes. El análisis de distribución muestra que la **Tienda 3** mantiene la mayor lealtad de clientes.
 
 ![image](https://github.com/DayraGL/Alura_Store/blob/main/satisfation_per_store.png)
 
