@@ -14,20 +14,17 @@ Este proyecto presenta un análisis integral de datos para la cadena de tiendas 
 ### 1. Logística y Costos de Envío
 Se identificó que la **Tienda 1** presenta los costos de envío más elevados (Promedio: R$26,018.61. Esto sugiere una oportunidad para renegociar contratos de flete o revisar la zona de cobertura.
 
-> [!TIP]
-> Average Shipping Cost per Store.png
+![image](https://github.com/DayraGL/Alura_Store/blob/main/AverageShipping%20CostperStore.png)
 
 ### 2. Composición de Ventas
 La categoría de **Muebles** representa el mayor volumen de ventas, lo que indica una fuerte preferencia del mercado por estos productos.
 
-> [!TIP]
-> **Inserta aquí tu Gráfico de Tarta**
+![image](https://github.com/DayraGL/Alura_Store/blob/main/categories_porcentage_graphic.png)
 
 ### 3. Satisfacción del Cliente (KPI de Salud)
 A pesar del volumen de ventas, la satisfacción varía significativamente entre sedes. El análisis de distribución muestra que la **Tienda Y** mantiene la mayor lealtad de clientes.
 
-> [!TIP]
-> **Inserta aquí tu Histograma de Calificaciones**
+![image](https://github.com/DayraGL/Alura_Store/blob/main/satisfation_per_store.png)
 
 ## 🗺️ Análisis Geográfico
 Utilizando coordenadas de latitud y longitud, generamos un mapa de calor que revela una alta concentración de demanda en la región de **Bogotá**, donde actualmente no contamos con una sede física.
